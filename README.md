@@ -56,6 +56,8 @@ Abuja: $24.92
 ## 🧾 Employees by Salary Range
 Most employees fall between $30K–$100K; fewer exceed $150K.
 
+![Palmoria Table](https://github.com/user-attachments/assets/f22d553d-9f9a-41c2-88a1-7999fa43f184)
+
 
 ## ⭐️ Ratings by Gender
 - Female: 46.62%
