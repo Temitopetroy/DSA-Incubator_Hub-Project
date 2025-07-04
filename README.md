@@ -9,26 +9,19 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 ## 📊 Key Metrics & Insights
 
 Average Salary: $73.70K
-
-Gender Representation: Breakdown by department and region
-
-Average Salary by Gender: Highlights disparities in pay
-
-Ratings by Gender: Reflects employee sentiment across genders
-
-Employees by Salary Range: Identifies pay clusters
+- Gender Representation: Breakdown by department and region
+- Average Salary by Gender: Highlights disparities in pay
+- Ratings by Gender: Reflects employee sentiment across genders
+- Employees by Salary Range: Identifies pay clusters
 
 ## 🛠 Tools Used
 
-Power BI Desktop
-
-DAX Measures for calculating key metrics
-
-Custom Visuals for comparative and categorical insights
-
+- Power BI Desktop
+- Custom Visuals
+- DAX Functios
+ 
 
 ## 📈 Visual Insights
-
 
 This Power BI dashboard provides an insightful overview of employee compensation, gender representation, and performance ratings across Palmoria Group. The purpose is to highlight trends, identify disparities, and inform HR strategies for equity and transparency.
 
@@ -39,18 +32,15 @@ This Power BI dashboard provides an insightful overview of employee compensation
 
  
 ## 💰 Average Salary by Gender
-Female: $72.14k
-
-Male: $74.79k
+- Female: $72.14k
+- Male: $74.79k
  
  
 ## 🌍 Total Salary by Region
-Kaduna: $27.8M 
-
-Lagos: $19.53
-
-Abuja: $24.92
- Kaduna has the highest salary outlay, prompting the need for regional pay reviews.
+- Kaduna: $27.8M 
+- Lagos: $19.53
+- Abuja: $24.92
+ Kaduna has the highest salary outlay, the need for regional pay reviews.
 
  
 ## 🧾 Employees by Salary Range
@@ -66,7 +56,4 @@ Most employees fall between $30K–$100K; fewer exceed $150K.
 
 
 ## ✅ Conclusion
-Palmoria Group is taking deliberate steps toward gender balance and inclusion, especially in pay equity. However, gaps remain in:
-●	Regional pay consistency
-●	Transparent employee evaluation
-●	Underpayment case
+Palmoria Group is taking deliberate steps toward gender balance and inclusion, especially regarding equity in pay.
